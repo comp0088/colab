@@ -6,9 +6,11 @@ Notebooks can *probably* also be run locally, but you will need to set up an app
 
 Earlier versions of the lab exercises designed to run as local python scripts can be found in the [labs](https://github.com/comp0088/labs) repository. These cover similar material and you are welcome to use them instead if you have some objection to Jupyter and/or Google, but again we cannot provide technical support.
 
-* **Week 1 (4 October 2024)**
+* **Week 1 (3 October 2025)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
+
+<!--
 * **Week 2 (11 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2%2Bsolutions.ipynb)
@@ -30,4 +32,4 @@ Earlier versions of the lab exercises designed to run as local python scripts ca
 * **Week 8 (29 November 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8%2Bsolutions.ipynb)
-
+-->
