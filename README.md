@@ -4,15 +4,15 @@ This repo contains Jupyter notebooks for COMP0088's weekly lab sessions. The not
 
 Notebooks can *probably* also be run locally, but you will need to set up an appropriate Python environment, which can be quite fiddly. You are welcome to try this if it's something you are comfortable with, but we cannot provide any technical support for doing so.
 
-Earlier versions of the lab exercises designed to run as local python scripts can be found in the [labs](https://github.com/comp0088/labs) repository. These cover similar material and you are welcome to use them instead if you have some objection to Jupyter and/or Google, but again we cannot provide technical support.
+Earlier versions of the lab exercises designed to run as local python scripts can be found in the [labs](https://github.com/comp0088/labs) repository. These cover similar material and you are welcome to use them instead if you have some objection to Jupyter and/or Google, but they have not been updated in several years and may be a bit creaky. Again we cannot provide technical support for using these.
 
 * **Week 1 (3 October 2025)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1.ipynb)
+    - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
+* **Week 2 (10 October 2025)**
+    - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
 
 <!--
-    - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
-* **Week 2 (11 October 2024)**
-    - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2%2Bsolutions.ipynb)
 * **Week 3 (18 October 2024)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab3.ipynb)
