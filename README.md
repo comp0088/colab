@@ -27,9 +27,9 @@ Earlier versions of the lab exercises designed to run as local python scripts ca
 * **Week 7 (21 November 2025)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab7.ipynb)
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab7%2Bsolutions.ipynb)
-
-<!--
 * **Week 8 (28 November 2025)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8.ipynb)
+    
+<!--
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab8%2Bsolutions.ipynb)
 -->
